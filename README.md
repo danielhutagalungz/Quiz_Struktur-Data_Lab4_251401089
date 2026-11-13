@@ -1,6 +1,6 @@
 # Quiz Lab Struktur Data 3 & 4
 
-**Nama:** [isi nama] | **NIM:** [isi NIM] | **Kelas:** [isi kelas]
+**Nama:** Daniel Audrey Juanito Hutagalung | **NIM:** 251401089 | **Lab:** Lab 4 Struktur Data
 
 Program C++ untuk materi Pertemuan 1–8.
 
