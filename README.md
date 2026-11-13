@@ -11,13 +11,4 @@ Program C++ untuk materi Pertemuan 1–8.
 | `Soal_3.cpp` | Rute kampus | Graph (Adjacency Matrix), BFS, DFS, Dijkstra |
 | `Soal_4.cpp` | Data mahasiswa | Hash Table 20 slot, Double Hashing |
 
-## Menjalankan
 
-```bash
-g++ Soal1_Nilai_Mahasiswa.cpp -o soal1
-./soal1
-```
-
-Ganti nama file untuk soal lain. Di Windows jalankan `soal1.exe`.
-
-> `system("cls")` hanya berfungsi di Windows. Di Linux/Mac muncul pesan `cls: not found`, tapi program tetap jalan.
