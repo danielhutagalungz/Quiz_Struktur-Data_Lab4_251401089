@@ -11,4 +11,6 @@ Program C++ untuk materi Pertemuan 1–8.
 | `Soal_3.cpp` | Rute kampus | Graph (Adjacency Matrix), BFS, DFS, Dijkstra |
 | `Soal_4.cpp` | Data mahasiswa | Hash Table 20 slot, Double Hashing |
 
+Link YouTube : https://youtu.be/YaknvtM9yXY?si=Z4gQGMOM3H1tHTZe
+
 
